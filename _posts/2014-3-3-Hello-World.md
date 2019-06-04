@@ -1,8 +1,11 @@
 ---
 layout: post
-author: HI
 title: You're up and running!
 ---
+
+*Written by Kale Hyder*
+
+#note: include date in the specified format to have the tagline at the end
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
